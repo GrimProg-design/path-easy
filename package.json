@@ -1,13 +1,21 @@
 {
   "name": "path-easy",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Simplified path for ESM with __dirname/__filename",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["path", "esm", "dirname", "filename", "nodejs", "express"],
   "author": "Ilia Vavilov 'Grim_Prog' (https://github.com/GrimProg-design)",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrimProg-design/path-easy"
+  },
+  "bugs": {
+    "url": "https://github.com/GrimProg-design/path-easy/issues"
+  },
+  "homepage": "https://github.com/GrimProg-design/path-easy#readme"
 }
