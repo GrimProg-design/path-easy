@@ -1,6 +1,6 @@
 {
   "name": "path-easy",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simplified path for ESM with __dirname/__filename",
   "main": "index.js",
   "scripts": {
